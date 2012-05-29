@@ -1,6 +1,6 @@
-imdbifyer for Netflix
-=====================
-This is the imdbifyer add-on.
+imdbflix
+========
+This is the imdbflix add-on for Firefox.
 
 It adds links to IMDB behind every movie title on Netflix.
 
