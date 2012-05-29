@@ -1,0 +1,8 @@
+{
+  "name": "imdbifyer",
+  "fullName": "imdbifyer for Netflix",
+  "description": "Adds IMDB links to every movie title on Netflix.",
+  "author": "Fred Wenzel <fwenzel@mozilla.com>",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
